@@ -1,0 +1,14 @@
+.item {
+  list-style: none;
+}
+.button {
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  color: #c4c4c4;
+  margin: 10px;
+  padding: 10px;
+  font-size: 25px;
+  width: 200px;
+  border-radius: 5px;
+  font-weight: bold;
+}

@@ -1,0 +1,58 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding-left: 300px;
+  padding-right: 500px;
+}
+.container {
+  background-color: #150b3e;
+  padding: 20px;
+  border-radius: 10px;
+}
+.body {
+  display: flex;
+}
+.name-icon {
+  color: #7c3aed;
+  background-color: #c7d2fe;
+  padding: 25px;
+  border-radius: 100px;
+  margin: 10px;
+}
+.name {
+  color: #d4d2db;
+  margin-top: 30px;
+  font-size: 20px;
+}
+.balance {
+  display: flex;
+  justify-content: space-between;
+}
+.balance-desc {
+  color: #585076;
+}
+.balance-amount {
+  margin-top: 0px;
+  color: #d4d2db;
+}
+.rupees-desc {
+  color: #585076;
+  text-align: right;
+  margin-top: 0px;
+  font-size: 10px;
+}
+.withdraw {
+  color: #d4d2db;
+}
+.sum-desc {
+  color: #585076;
+  font-size: 15px;
+}
+.amount-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
